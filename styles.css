@@ -1,0 +1,80 @@
+h1 {
+  text-align: center;
+  font-size: 400%;
+
+}
+h2 {
+  text-align: center;
+  font-size: 200%;
+}
+
+
+.hero-background-img {
+  background-image: url("iPhone.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:85px;
+  padding-bottom:200px;
+}
+
+.hero-background-img2 {
+  background-image: url("colors.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  padding-top:85px;
+  padding-bottom:200px;
+}
+
+.hero-background-img3 {
+  background-image: url("AppleWatch.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:50px;
+  padding-bottom:200px;
+}
+
+
+.hero-background-img4 {
+  background-image: url("Studio.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding-top:5px;
+  padding-bottom:200px;
+}
+
+
+.hero-background-img5 {
+  background-image: url("Oprah.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  padding-top:5px;
+  padding-bottom:200px;
+}
+
+.hero-background-img6 {
+  background-image: url("new.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  padding-top:5px;
+  padding-bottom:200px;
+}
+
+.hero-background-img7 {
+  background-image: url("applecard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  padding-top:5px;
+  padding-bottom:200px;
+}
+
+
+.bg-secondary {
+  white-space: pre;
+  }
